@@ -22,7 +22,7 @@ Description
 New futures
 ============================
 	1.Tear Effect    -- If you select the "Tear Effect" to screenshot, 
-	s                   and you will get the image with tear effect 
+	                    and you will get the image with tear effect 
 	2.Circle Effect  -- If you select the "Circle Effect" to screenshot, 
 	                    and you will get the image with circle effect 
  
