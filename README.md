@@ -5,7 +5,9 @@ Original project is a Java application, and I have spent some times to read code
 Environment confiration
 
   Windows 7 OS
+  
   JDK 1.6.* or above
+  
   Maven version 3.2.1
 
 Basic version you can get it via below link : 
@@ -71,7 +73,7 @@ On your computer screen, you can find a tray(with black cat icon) at the bottom 
 **[alarm](https://github.com/Hongten/alarm)**
 
 
-Thanks mailingfeng
+# Thanks mailingfeng
 	
 [mailingfeng](http://www.cnblogs.com/mailingfeng)
 	
